@@ -1,0 +1,22 @@
+﻿body {
+    background-color:lightcyan;
+    color:darkblue;
+}
+.topPanel{
+    background-color:antiquewhite;
+    top:2%;
+    right:2%;
+    left:2%;
+    width:96%;
+    height:20%
+}
+.mainPanel {
+    background-color: white;
+    top: 5%;
+    right: 2%;
+    left: 2%;
+    width: 96%;
+    height: 80%
+    
+}
+
